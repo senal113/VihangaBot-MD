@@ -21,19 +21,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
-global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
-global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.owner = ['94769872326']
+global.premium = ['94769872326']
+global.ownernomer = '94769872326'
+global.ownername = '៚SENAL.boy⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.botname = 'SENAL MD BOT'
+global.footer = 'SENAL MD'
+global.cap = '*Genarated By Senal Md*'
+global.ig = ''
+global.region = 'Sri Lanka, Sabaragamuwa, ehaliyagoda'
+global.sc = ''
+global.myweb = ''
+global.packname = 'Senal Md Sticker Bot'
+global.author = '៚SENAL.boyᴛ⁸⁵⁴¹⃟✦⃝̮̮〽️'
 global.autobio = 'true'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
